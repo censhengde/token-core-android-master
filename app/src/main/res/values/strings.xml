@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="title_home">首页</string>
+    <string name="lend">借贷</string>
+    <string name="deal">交易</string>
+    <string name="plan">定投</string>
+    <string name="wallet">钱包</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_my">我的</string>
+    <string name="login_cloud">云钱包</string>
+    <string name="hd_wallet_text">HD钱包</string>
+    <string name="multisig_wallet_text">多签钱包</string>
+</resources>
